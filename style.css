@@ -10,33 +10,15 @@ font-size: 20px;
 h2{
 font-size: 18px;
 }
-.capa {
-  width: 150px;
-  height: auto;
-  margin: 10px 0;
+.capa{
+  width: 20%;
+  padding: 10px;
 }
-.lista {
-  max-width: 1200px;
-  margin: 0 auto;
-}
-
-ul {
-  list-style: none;
-  padding: 0;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px;
-}
-
-li {
-  text-align: center;
-  width: 250px;
-  margin-bottom: 30px;
-  padding: 15px;
-  background: white;
-  border-radius: 8px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+ul{
+  display: inline-block;
+  vertical-align: middle;
+  width: 120%;
+  margin-right:85%;
 }
 
 a {
