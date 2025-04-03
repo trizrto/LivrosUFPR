@@ -23,6 +23,13 @@ ul{
   font-size: 22px;
 }
 
+li {
+  background-color: #FF00FF;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
 a {
   display: block;
   margin-top: 10px;
