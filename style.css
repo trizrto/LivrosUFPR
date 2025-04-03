@@ -13,6 +13,7 @@ font-size: 22px;
 .capa{
   width: 20%;
   padding: 10px;
+  background-color: #ff69b4;
 }
 ul{
   display: inline-block;
