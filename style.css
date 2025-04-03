@@ -22,13 +22,6 @@ ul{
   font-size: 22px;
 }
 
-li {
-  background-color: #ff8fab;
-  padding: 10px;
-  margin-bottom: 10px;
-  border-radius: 5px;
-}
-
 a {
   display: block;
   margin-top: 10px;
